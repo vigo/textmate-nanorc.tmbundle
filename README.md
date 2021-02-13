@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-0.0.0-yellow.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-yellow.svg)
 ![TextMate](https://img.shields.io/badge/textmate-1-green.svg)
 ![TextMate](https://img.shields.io/badge/textmate-2-green.svg)
 
